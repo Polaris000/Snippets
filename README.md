@@ -13,7 +13,8 @@ A collection of snippets and functions that I regularly use in my workflows as a
 
 
 
-### IPython
+### IPython + Miscellaneous
 | Snippet  | Code | Description |
 | ------------- | ------------- | ------------ |
-| ![](https://img.shields.io/badge/NEW-success/?style=flat-square) Color print in jupyter notebooks | [Code](./ipython/color_print.ipynb)| Coloring specific values in your output can be an easy way to highlight important information. While there are packages like `termcolor` or `colorama`, I find that simply using ANSI color outputs works best.|
+| ![](https://img.shields.io/badge/NEW-success/?style=flat-square) Color print in jupyter notebooks | [Code](./ipython/color_print.ipynb)| Coloring specific values in your output can be an easy way to highlight important information. While there are packages like `termcolor` or `colorama`, I find that simply using ANSI color outputs works best. |
+| ![](https://img.shields.io/badge/NEW-success/?style=flat-square) Progress bars in jupyter notebooks | [Code](./ipython/tqdm_config.ipynb)| `tqdm` is a package that lets you create progress bars. While it has notebook specific versions via `tqdm_notebook`, I find that directly using `tqdm` works just as well without the hassle of setting up `ipywidgets` and `IProgress`.|
