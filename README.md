@@ -6,4 +6,6 @@ A collection of snippets and functions that I regularly use in my workflows as a
 
 
 ### Pandas
-* Boosted value_counts: [code](./pandas/boosted_value_counts.ipynb)
+| Snippet  | Code | Date Added |
+| ------------- | ------------- | ------------ |
+| ![](https://img.shields.io/badge/NEW-success/?style=flat-square) Boosted value_counts | [Code](./PandasApply/)| February, 2023|
