@@ -1,8 +1,8 @@
 ## Snippets
-
-
 ### About
 A collection of snippets and functions that I regularly use in my workflows as a data scientist. These snippets are utility functions that speed up my work, and focus on Pandas, Numpy and visualization libraries.
+
+<img width="900" alt="image" src="https://user-images.githubusercontent.com/31214064/221345273-f8ac9d27-9b7a-4b57-82b6-c03d6b9f6c57.png">
 
 
 ### Pandas
